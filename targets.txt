@@ -2,27 +2,5 @@
 # Supports multiple target types: WEB, MOBILE, FILE, NETWORK, CODE
 
 # Real Test Targets (as specified)
-youngplatform.com
-*.youngplatform.com
 app.aikido.dev
 *.aikido.dev
-
-# Web Targets
-# https://api.target.com
-# target.com
-
-# Mobile Targets  
-# https://play.google.com/store/apps/details?id=com.target.app
-# ./uploads/app-release.apk
-
-# File Targets
-# ./evidence/config.js
-# https://cdn.target.com/.env
-
-# Network Targets
-# 192.168.1.0/24
-# 203.0.113.10
-
-# Code Repository Targets
-# github:target-org
-# gitlab:target-group
