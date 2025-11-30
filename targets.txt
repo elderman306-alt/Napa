@@ -1,0 +1,6 @@
+# AEGIS-X Target Configuration
+# Supports multiple target types: WEB, MOBILE, FILE, NETWORK, CODE
+
+# Real Test Targets (as specified)
+app.aikido.dev
+*.aikido.dev
